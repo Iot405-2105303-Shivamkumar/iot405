@@ -1,0 +1,6 @@
+my git lab
+cd..
+cd folder name
+md>
+git init 
+git command-win
